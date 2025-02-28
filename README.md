@@ -3,7 +3,7 @@
 ## Overview  
 This repository provides an open-source implementation of the research paper:  
 **"An Explainable AI Framework for Credit Evaluation and Analysis"** (*Applied Soft Computing Journal, 2024*).  
-
+📄 **Paper Link:** [Elsevier - Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494624000814)
 The project applies **Machine Learning (ML) and Explainable AI (XAI)** techniques to improve transparency in **credit risk assessment and loan approval decisions**. Using **Random Forest, SHAP, LIME, and Partial Dependency Plots (PDP)**, it explains why a loan is approved or rejected, helping financial institutions and borrowers understand decision-making processes.  
 
 ## Features  
