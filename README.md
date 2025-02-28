@@ -17,7 +17,7 @@ The project applies **Machine Learning (ML) and Explainable AI (XAI)** technique
 ## Repository Structure  
 ```
 Credit Risk Explainability/
-│── XAI_Credit_Evaluation.ipynb  # Google Colab notebook with full implementation
+│── Credit Risk Explainability.ipynb  # Google Colab notebook with full implementation
 │── requirements.txt              # Dependencies list
 │── README.md                     # Documentation
 │── LICENSE                       # Open-source license
