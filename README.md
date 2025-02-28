@@ -1,4 +1,4 @@
-# XAI-Credit-Evaluation: Explainable AI for Loan Approval  
+# Credit Risk Explainability: Explainable AI for Loan Approval  
 
 ## Overview  
 This repository provides an open-source implementation of the research paper:  
@@ -16,7 +16,7 @@ The project applies **Machine Learning (ML) and Explainable AI (XAI)** technique
 
 ## Repository Structure  
 ```
-XAI-Credit-Evaluation/
+Credit Risk Explainability/
 │── XAI_Credit_Evaluation.ipynb  # Google Colab notebook with full implementation
 │── requirements.txt              # Dependencies list
 │── README.md                     # Documentation
@@ -28,7 +28,7 @@ XAI-Credit-Evaluation/
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/your-username/XAI-Credit-Evaluation.git
+git clone https://github.com/your-username/Credit-Risk-Explainability.git
 cd XAI-Credit-Evaluation
 ```
 
@@ -42,7 +42,7 @@ To run the notebook interactively, use the link below:
 
 [Open in Google Colab](https://colab.research.google.com/github/Kaif0708/Credit-Risk-Explainability/blob/main/XAI_Credit_Evaluation.ipynb)  
 
-## Results  
+## Results
 | Model            | Accuracy | Precision | Recall | F1-Score |
 |-----------------|---------|----------|--------|---------|
 | Logistic Regression | 0.980  | 0.980  | 0.980  | 0.980  |
