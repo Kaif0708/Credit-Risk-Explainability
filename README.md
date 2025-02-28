@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ### Open in Google Colab  
 To run the notebook interactively, use the link below:  
 
-[Open in Google Colab](https://colab.research.google.com/drive/1XQ3X9CXkqtAXIzm1L9PmbNSOZCxbaqR6?usp=sharing)  
+[Open in Google Colab](https://colab.research.google.com/github/Kaif0708/Credit-Risk-Explainability/blob/main/XAI_Credit_Evaluation.ipynb)  
 
 ## Results  
 | Model            | Accuracy | Precision | Recall | F1-Score |
