@@ -29,7 +29,7 @@ Credit Risk Explainability/
 ### Clone the Repository  
 ```bash
 git clone https://github.com/your-username/Credit-Risk-Explainability.git
-cd XAI-Credit-Evaluation
+cd Credit-Risk-Explainability
 ```
 
 ### Install Dependencies  
